@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omkeshp/wordcounter/static/css/main.073c9b0a.css",
+    "main.js": "/omkeshp/wordcounter/static/js/main.c217b312.js",
+    "static/js/787.a9a1a97d.chunk.js": "/omkeshp/wordcounter/static/js/787.a9a1a97d.chunk.js",
+    "index.html": "/omkeshp/wordcounter/index.html",
+    "main.073c9b0a.css.map": "/omkeshp/wordcounter/static/css/main.073c9b0a.css.map",
+    "main.c217b312.js.map": "/omkeshp/wordcounter/static/js/main.c217b312.js.map",
+    "787.a9a1a97d.chunk.js.map": "/omkeshp/wordcounter/static/js/787.a9a1a97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c217b312.js"
+  ]
+}
